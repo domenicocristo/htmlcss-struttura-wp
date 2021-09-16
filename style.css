@@ -26,8 +26,36 @@ nav {
 }
 
 main {
-    background-color: aqua;
+    background-color: blue;
     height: 700px;
+}
+
+.intestazione-main {
+    background-color: aqua;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.colonna-sinistra {
+    float: left;
+    background-color: aqua;
+    height: 600px;
+    width: 20%;
+}
+
+.colonna-centrale {
+    display: inline;
+    background-color: aqua;
+    height: 600px;
+    width: 50%;
+}
+
+.colonna-destra {
+    display: inline;
+    float: right;
+    background-color: aqua;
+    height: 600px;
+    width: 20%;
 }
 
 footer {
