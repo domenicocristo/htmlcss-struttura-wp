@@ -24,3 +24,13 @@ nav {
     background-color: yellow;
     height: 500px;
 }
+
+main {
+    background-color: aqua;
+    height: 700px;
+}
+
+footer {
+    background-color: blue;
+    height: 35px;
+}
