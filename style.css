@@ -30,27 +30,27 @@ main {
     height: 700px;
 }
 
-.intestazione-main {
+.header-main {
     background-color: aqua;
     height: 50px;
     margin-bottom: 15px;
 }
 
-.colonna-sinistra {
+.column-left {
     float: left;
     background-color: aqua;
     height: 600px;
     width: 20%;
 }
 
-.colonna-centrale {
+.column-center{
     display: inline;
     background-color: aqua;
     height: 600px;
     width: 50%;
 }
 
-.colonna-destra {
+.column-right {
     display: inline;
     float: right;
     background-color: aqua;
